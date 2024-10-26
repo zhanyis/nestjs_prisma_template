@@ -1,2 +1,1 @@
-# nestjs_prisma_template
-simple crud template for primsa + nestjs
+[NestJS + Prisma 增删改查实践](https://juejin.cn/post/7408808461918863387)
